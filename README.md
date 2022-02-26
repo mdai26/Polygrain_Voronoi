@@ -10,4 +10,6 @@ python voronoi.py
 ```
 ### Generated 2D polygrain microstructure examples
 #### 1) With periodic boundary condition
+![image](https://github.com/mdai26/Polygrain_Voronoi/blob/main/image/Voronoi_periodic.png)
 #### 2) Without periodic boundary condition
+![image](https://github.com/mdai26/Polygrain_Voronoi/blob/main/image/Voronoi_finite_size.png)
