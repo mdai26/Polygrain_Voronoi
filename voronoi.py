@@ -165,7 +165,7 @@ def addboundary(mark, periodic):
                 # get neighbors
                 neighbors = getneighbor(i,j,k,Nx,Ny,Nz,periodic)
                 for n in neighbors:
-                    if mark[n[0],n[1],n[2]] != mark0 and grainmark[n[0],n[1],n[2]] != 2:
+                    if mark[n[0],n[1],n[2]] != mark0:
                         grainmark[i,j,k] = 2
                         break
     
