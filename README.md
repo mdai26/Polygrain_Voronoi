@@ -1,6 +1,6 @@
 # Polygrain microstructure generation through Voronoi Tessellation
 ### This code includes
-1) Randomly generated the location of points. 
+1) Randomly generate the location of points. 
 2) Perform Voronoi tessellation based on the location of generated points.
 3) Add boundaries to the generated domain
 
